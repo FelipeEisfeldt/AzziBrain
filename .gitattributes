@@ -1,0 +1,10 @@
+# Normaliza fim de linha no repositorio: LF sempre.
+# Sem isto, cada commit feito no Windows dispara avisos de CRLF e o proximo
+# clone em Linux/Mac ve o arquivo inteiro como modificado.
+* text=auto eol=lf
+
+# Binarios: nunca converter.
+*.docx binary
+*.png  binary
+*.jpg  binary
+*.woff2 binary
