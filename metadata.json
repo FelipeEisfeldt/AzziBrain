@@ -1,0 +1,6 @@
+{
+  "name": "AzziBrain",
+  "description": "Gerador de ideias estrategicas para eventos da Azzi: reconhecimento facial, micro-surveys de alta conversao e inteligencia de dados para marcas. Roda local e se vincula sozinho a IA instalada na maquina (Claude ou Gemini).",
+  "requestFramePermissions": [],
+  "author": "Felipe Eisfeldt"
+}
